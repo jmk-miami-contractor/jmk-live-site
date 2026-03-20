@@ -6,10 +6,10 @@ export default function Navbar() {
     <nav className="absolute top-0 left-0 right-0 z-10 flex items-center justify-between px-6 py-5 md:px-12">
       <Link href="/">
         <Image
-          src="/logos/jmk-primary-wordmark-white-rgb.svg"
+          src="/logos/jmk-wordmark-only-white.svg"
           alt="JMK Custom Homes"
-          width={160}
-          height={40}
+          width={120}
+          height={36}
           priority
         />
       </Link>

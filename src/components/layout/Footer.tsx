@@ -6,9 +6,9 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between gap-8">
         <div>
           <Image
-            src="/logos/jmk-primary-wordmark-white-rgb.svg"
+            src="/logos/jmk-wordmark-only-white.svg"
             alt="JMK Custom Homes"
-            width={140}
+            width={120}
             height={36}
           />
           <p className="mt-3 text-sm text-brand-light/70 max-w-xs">
